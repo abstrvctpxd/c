@@ -1,2 +1,2 @@
 # c
-C Prrograms - Descr will be updated soon.
+C Programs - Descr will be updated soon.
